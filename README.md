@@ -58,9 +58,15 @@ Next.js will initialize your project using the Yarn package manager if installed
 npx create-next-app <app-name> --use-npm
 ```
 
+The [Next.js examples](https://github.com/vercel/next.js/tree/canary/examples) can be used to create new projects from the examples.
+
+```shell
+npx create-next-app <app-name> --example with-docker
+```
 
 
 ## Server-Side Rendering
+
 
 ## Static Site Generation
 
